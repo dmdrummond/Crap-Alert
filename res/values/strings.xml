@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crap Alert</string>
+    <string name="Lowebsite">Linux Outlaws Website</string>
+    <string name="LOUrl">http://www.linuxoutlaws.com</string>
+    <string name="widgetName">Crap Alert</string>
+</resources>
